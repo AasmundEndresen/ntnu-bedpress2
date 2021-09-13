@@ -1,0 +1,152 @@
+{
+  "mclaren": {
+    "color": "orange",
+    "name": "McLaren",
+    "engine": "Mercedes",
+    "drivers": [
+      {
+        "firstname": "Daniel",
+        "lastname": "Ricciardo"
+      },
+      {
+        "firstname": "Lando",
+        "lastname": "Norris"
+      }
+    ]
+  },
+  "mercedes": {
+    "color": "black",
+    "name": "Mercedes",
+    "engine": "Mercedes",
+    "drivers": [
+      {
+        "firstname": "Lewis",
+        "lastname": "Hamilton"
+      },
+      {
+        "firstname": "Valtteri",
+        "lastname": "Bottas"
+      }
+    ]
+  },
+  "redbull": {
+    "color": "darkblue",
+    "name": "Red Bull Racing",
+    "engine": "Honda",
+    "drivers": [
+      {
+        "firstname": "Max",
+        "lastname": "Verstappen"
+      },
+      {
+        "firstname": "Sergio",
+        "lastname": "Perez"
+      }
+    ]
+  },
+  "ferrari": {
+    "color": "red",
+    "name": "Scuderia Ferrari",
+    "engine": "Ferrari",
+    "drivers": [
+      {
+        "firstname": "Charles",
+        "lastname": "Leclerc"
+      },
+      {
+        "firstname": "Carlos",
+        "lastname": "Sainz"
+      }
+    ]
+  },
+  "alpine": {
+    "color": "blue",
+    "name": "Alpine",
+    "engine": "Renault",
+    "drivers": [
+      {
+        "firstname": "Fernando",
+        "lastname": "Alonso"
+      },
+      {
+        "firstname": "Esteban",
+        "lastname": "Ocon"
+      }
+    ]
+  },
+  "alphatauri": {
+    "color": "lightgray",
+    "name": "Alphatauri",
+    "engine": "Honda",
+    "drivers": [
+      {
+        "firstname": "Pierre",
+        "lastname": "Gasly"
+      },
+      {
+        "firstname": "Yuki",
+        "lastname": "Tsunoda"
+      }
+    ]
+  },
+  "astonmartin": {
+    "color": "darkgreen",
+    "name": "Aston Martin",
+    "engine": "Mercedes",
+    "drivers": [
+      {
+        "firstname": "Sebastian",
+        "lastname": "Vettel"
+      },
+      {
+        "firstname": "Lance",
+        "lastname": "Stroll"
+      }
+    ]
+  },
+  "williams": {
+    "color": "blue",
+    "name": "Williams Racing",
+    "engine": "Mercedes",
+    "drivers": [
+      {
+        "firstname": "George",
+        "lastname": "Russell"
+      },
+      {
+        "firstname": "Nicholas",
+        "lastname": "Latifi"
+      }
+    ]
+  },
+  "alfaromeo": {
+    "color": "red",
+    "name": "Alfa Romeo",
+    "engine": "Ferrari",
+    "drivers": [
+      {
+        "firstname": "Kimi",
+        "lastname": "Raikonnen"
+      },
+      {
+        "firstname": "Antonio",
+        "lastname": "Giovinazzi"
+      }
+    ]
+  },
+  "haas": {
+    "color": "lightgray",
+    "name": "Haas F1",
+    "engine": "Ferrari",
+    "drivers": [
+      {
+        "firstname": "Mick",
+        "lastname": "Schumacher"
+      },
+      {
+        "firstname": "Nikita",
+        "lastname": "Mazespin"
+      }
+    ]
+  }
+}
