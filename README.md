@@ -1,4 +1,4 @@
-# ntnu-bedpress
+# Project Honeybadger
 
 ## Project setup
 ```
